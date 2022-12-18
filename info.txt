@@ -1,0 +1,30 @@
+Use Swiper from CDN
+https://swiperjs.com/get-started#use-swiper-from-cdn
+
+icons
+https://icons8.com/icons/
+
+Udemy
+https://www.udemy.com/courses/development/web-development/?sort=highest-rated
+
+html css information
+https://www.futurelearn.com/info/blog/what-are-html-css-basics-of-coding
+
+next js information
+https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs
+
+bootcamp information
+https://medium.com/javarevisited/udemys-the-web-developer-bootcamp-by-colt-steele-review-d94d668f63a7
+
+React js
+https://brainhub.eu/library/famous-apps-using-reactjs
+
+
+
+cd .. 
+cd <folder name> 
+git init
+git branch
+git add .
+git commit -m "commit message"
+git push
