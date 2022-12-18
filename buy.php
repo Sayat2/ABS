@@ -32,7 +32,7 @@
 
    <h1 class="heading-title">buy and become the best programmer!</h1>
 
-   <form action="book_form.php" method="post" class="book-form">
+   <form action="submit.php" method="post" class="book-form">
 
       <div class="flex">
          <div class="inputBox">
@@ -61,10 +61,6 @@
 
    </form>  
 
-
-   <!-- <div class="icons"> -->
-
-   <!-- </div> -->
 
 </section>
 
