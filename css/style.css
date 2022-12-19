@@ -50,6 +50,17 @@ section{
    }
 }
 
+
+
+@keyframes S {
+	0% {
+		transform: scale(2);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
 .heading{
    background-size: cover !important;
    background-position: center !important;
@@ -587,6 +598,7 @@ section{
    color:var(--main-color);
    padding-right: .5rem;
    transition: .2s linear;
+   animation: S 1s ease 0s 100 normal forwards; 
 }
 
 .footer .box-container .box a:hover i{
