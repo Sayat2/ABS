@@ -168,7 +168,7 @@
 
 <section class="home-offer">
    <div class="content">
-      <h3>upto 60% off</h3>
+      <h3>up to 60% off</h3>
       <p>Winter promotion: up to 60% discount%</p>
       <p> Get 2 for the price of one and 5 online courses as a gift</p>
       <a href="buy.php" class="btn">buy now</a>
