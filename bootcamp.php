@@ -122,9 +122,7 @@
 
 <section class="footer">
 
-   <div class="box-container">
-
-   <div class="box-container">
+<div class="box-container">
 
 <div class="box">
    <h3>quick links</h3>
@@ -159,7 +157,6 @@
 </div>
 
 </div>
-
    <div class="credit"> created by team <span>Legends of Jaksylyk</span> </div>
 
 </section>

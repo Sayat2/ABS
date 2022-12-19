@@ -31,7 +31,7 @@
 <section class="booking">
 
    <h1 class="heading-title">buy and become the best programmer!</h1>
-
+   <h2>You can leave a message. We will contact you. Thanks!</h2>
    <form action="submit.php" method="post" class="book-form">
 
       <div class="flex">

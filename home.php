@@ -107,15 +107,15 @@
 <section class="home-about">
 
    <div class="image">
-      <img src="images/AiBaSa.jpg" alt="">
+      <img src="images/ABS.png" alt="">
    </div>
 
    <div class="content">
       <h3>about us</h3>
       <p>We are Legends of Jaksylyk 😎</p>
-      <p>👩‍💻Aidana Bagasharova</p>
-      <p>👩‍💻Bayan Berdikozha</p>
-      <p>👨‍💻Azhen Sayat</p>
+      <p>👩‍💻Aidana Bagasharova 👩‍💻Bayan Berdikozha  👨‍💻Azhen Sayat</p>
+      <p>We will help you learn the current profession and start a career. </p><p> study at a convenient time, work on real projects</p><p> and build a portfolio already on the course.</p>
+      <p></p>
       <a href="about.php" class="btn">read more</a>
    </div>
 
