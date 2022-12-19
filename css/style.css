@@ -50,6 +50,17 @@ section{
    }
 }
 
+
+
+@keyframes S {
+	0% {
+		transform: scale(2);
+	}
+
+	100% {
+		transform: scale(1);
+	}
+}
 .heading{
    background-size: cover !important;
    background-position: center !important;
@@ -235,13 +246,16 @@ section{
 }
 
 .home-about .image img{
-   width: 100%;
+   width: 90%;
 }
 
 .home-about .content{
    flex:1 1 41rem;
    padding:3rem;
-   background: var(--light-bg);
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
 }
 
 .home-about .content h3{
@@ -587,6 +601,7 @@ section{
    color:var(--main-color);
    padding-right: .5rem;
    transition: .2s linear;
+   animation: S 1s ease 0s 100 normal forwards; 
 }
 
 .footer .box-container .box a:hover i{
