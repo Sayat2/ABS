@@ -96,7 +96,7 @@
             <img src="images/wordpress.jpg" alt="">
          </div>
          <div class="content">
-            <h3>How to Make Income Making Blogging with WordPress</h3>
+            <a href="WordPress.php"><h3>How to Make Income Making Blogging with WordPress</h3></a>
             <p>Build Blogging WordPress website</p>
             <a href="buy.php" class="btn">buy now</a>
          </div>
