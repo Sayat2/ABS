@@ -19,7 +19,8 @@ https://medium.com/javarevisited/udemys-the-web-developer-bootcamp-by-colt-steel
 React js
 https://brainhub.eu/library/famous-apps-using-reactjs
 
-
+Scroll
+https://developer.mozilla.org/en-US/docs/Web/CSS/::-webkit-scrollbar
 
 cd .. 
 cd <folder name> 
